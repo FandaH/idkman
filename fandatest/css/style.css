@@ -1,0 +1,16 @@
+body{
+    background-color: blueviolet;
+}
+h1,h2,h3,h4,h5,h6{
+        color: red;
+}
+h1.nadpis1{
+    color: yellowgreen;
+}
+p.text2{color: brown}
+span{color: aqua}
+
+img.obrazek1,img.obrazek2{width:250px;
+        height:100px;}
+img.obrazek3{width:450px;
+        height:500px;}
